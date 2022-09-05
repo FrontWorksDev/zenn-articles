@@ -1,0 +1,11 @@
+{
+  "name": "zenn-articles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FrontWorksDev/zenn-articles.git",
+  "author": "FrontWorksDev <kengo.kojima@frontworks.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.121"
+  }
+}
